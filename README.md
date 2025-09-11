@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mamun-sarkar-leemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamun-sarkar-leemon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mamun-sarkar-leemon-628006383/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamun-sarkar-leemon" height="30" width="40" /></a>
 <a href="https://kaggle.com/mamunsarkarleeemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mamunsarkarleeemon" height="30" width="40" /></a>
 <a href="https://fb.com/mamunsarkarleemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mamunsarkarleemon" height="30" width="40" /></a>
 <a href="https://instagram.com/ms_leeemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ms_leeemon" height="30" width="40" /></a>
